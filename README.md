@@ -1,4 +1,4 @@
-# Module 5 Challenge - WOrk Day Scheduler Submission 
+# Module 5 Challenge - Work Day Scheduler Submission 
 
 This is my submission for the Module 5 challenge. 
 
